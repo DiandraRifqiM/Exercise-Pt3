@@ -1,0 +1,101 @@
+CarID,Brand,Model,Year,Price,Mileage,CarAge,FuelType,Transmission,Region
+C001,Mitsubishi,Outlander,2021,23795,131932,4,Electric,Manual,Bandung
+C002,Hyundai,i20,2022,52732,54886,3,Petrol,Automatic,Bandung
+C003,BMW,X3,2017,45194,87498,8,Diesel,Automatic,Makassar
+C004,BMW,X5,2022,68788,16023,3,Electric,Manual,Medan
+C005,Honda,Accord,2017,9685,64820,8,Electric,Automatic,Denpasar
+C006,BMW,3 Series,2016,67735,64925,9,Hybrid,Automatic,Medan
+C007,Mitsubishi,Pajero,2020,10433,5311,5,Diesel,Automatic,Denpasar
+C008,Suzuki,Baleno,2019,25568,85305,6,Petrol,Manual,Makassar
+C009,Hyundai,Elantra,2020,14396,130608,5,Diesel,Automatic,Bandung
+C010,Tesla,Model S,2017,9899,56886,8,Hybrid,Automatic,Denpasar
+C011,Toyota,Corolla,2018,39551,116216,7,Hybrid,Automatic,Makassar
+C012,Suzuki,Ertiga,2017,11556,3890,8,Hybrid,Manual,Bandung
+C013,Toyota,Camry,2021,38740,87313,4,Electric,Manual,Medan
+C014,Toyota,Yaris,2018,16792,68148,7,Diesel,Automatic,Jakarta
+C015,Toyota,Yaris,2016,66707,120174,9,Hybrid,Manual,Medan
+C016,BMW,3 Series,2021,56555,17159,4,Hybrid,Automatic,Bandung
+C017,Suzuki,Swift,2017,22541,35920,8,Hybrid,Automatic,Denpasar
+C018,Mitsubishi,Pajero,2018,9585,19457,7,Electric,Automatic,Jakarta
+C019,Honda,Jazz,2020,51573,78953,5,Hybrid,Automatic,Jakarta
+C020,Tesla,Model 3,2018,48757,9692,7,Petrol,Manual,Denpasar
+C021,Toyota,Camry,2016,14873,37065,9,Electric,Manual,Bandung
+C022,Honda,Civic,2018,40606,11534,7,Hybrid,Automatic,Medan
+C023,BMW,X3,2022,48397,91387,3,Diesel,Manual,Jakarta
+C024,Tesla,Model X,2023,32253,55591,2,Electric,Manual,Denpasar
+C025,Tesla,Model 3,2019,31247,24300,6,Hybrid,Manual,Jakarta
+C026,BMW,X5,2016,25262,9268,9,Petrol,Automatic,Makassar
+C027,Hyundai,Elantra,2022,20185,139643,3,Hybrid,Automatic,Medan
+C028,Mitsubishi,Xpander,2023,46044,51214,2,Diesel,Automatic,Makassar
+C029,Hyundai,Kona,2015,56984,40774,10,Diesel,Manual,Jakarta
+C030,Hyundai,Kona,2023,62615,133767,2,Hybrid,Manual,Medan
+C031,Honda,Accord,2022,56190,136330,3,Diesel,Manual,Bandung
+C032,Suzuki,Baleno,2017,47504,13986,8,Electric,Manual,Jakarta
+C033,Mitsubishi,Xpander,2017,20666,38660,8,Hybrid,Automatic,Surabaya
+C034,Toyota,Corolla,2021,46952,22662,4,Diesel,Manual,Makassar
+C035,Toyota,Yaris,2023,38535,113569,2,Electric,Automatic,Surabaya
+C036,Suzuki,Ertiga,2015,31599,127478,10,Petrol,Manual,Surabaya
+C037,Tesla,Model X,2021,19837,123684,4,Diesel,Manual,Bandung
+C038,Tesla,Model X,2017,27115,10965,8,Hybrid,Automatic,Bandung
+C039,Toyota,Yaris,2017,13056,113252,8,Hybrid,Manual,Medan
+C040,Toyota,Corolla,2017,60992,98806,8,Diesel,Automatic,Makassar
+C041,Hyundai,Elantra,2021,64090,119176,4,Hybrid,Automatic,Makassar
+C042,BMW,X5,2017,56702,50015,8,Diesel,Manual,Jakarta
+C043,Suzuki,Swift,2021,64560,107059,4,Hybrid,Manual,Surabaya
+C044,Toyota,Camry,2018,26141,105878,7,Petrol,Automatic,Makassar
+C045,Honda,Accord,2021,64044,62623,4,Petrol,Manual,Bandung
+C046,BMW,X5,2021,17914,93426,4,Electric,Automatic,Jakarta
+C047,Tesla,Model X,2020,30299,43585,5,Diesel,Manual,Bandung
+C048,BMW,X5,2023,52020,2693,2,Hybrid,Manual,Makassar
+C049,Hyundai,Elantra,2018,56925,18047,7,Hybrid,Automatic,Bandung
+C050,BMW,X3,2021,23707,44262,4,Hybrid,Automatic,Medan
+C051,Toyota,Yaris,2015,38080,128376,10,Petrol,Manual,Surabaya
+C052,Toyota,Yaris,2023,35251,127948,2,Electric,Automatic,Makassar
+C053,Suzuki,Swift,2023,17474,21959,2,Hybrid,Manual,Jakarta
+C054,Suzuki,Swift,2023,61565,3748,2,Diesel,Manual,Makassar
+C055,Suzuki,Ertiga,2015,40562,13545,10,Hybrid,Manual,Surabaya
+C056,Suzuki,Swift,2022,42766,73530,3,Petrol,Manual,Bandung
+C057,Suzuki,Baleno,2020,69087,68840,5,Electric,Manual,Medan
+C058,Hyundai,Elantra,2018,62384,51005,7,Petrol,Manual,Surabaya
+C059,Tesla,Model S,2015,47353,52733,10,Hybrid,Manual,Makassar
+C060,BMW,3 Series,2021,52417,67172,4,Hybrid,Automatic,Medan
+C061,Honda,Accord,2015,68343,93264,10,Petrol,Manual,Medan
+C062,Suzuki,Swift,2015,36673,112859,10,Electric,Manual,Denpasar
+C063,Hyundai,i20,2020,8854,90084,5,Diesel,Manual,Surabaya
+C064,Suzuki,Ertiga,2015,63680,50859,10,Hybrid,Manual,Makassar
+C065,Suzuki,Ertiga,2020,29919,70467,5,Electric,Manual,Denpasar
+C066,Toyota,Camry,2021,40970,109751,4,Hybrid,Manual,Medan
+C067,Mitsubishi,Xpander,2015,33342,106308,10,Diesel,Automatic,Denpasar
+C068,Tesla,Model 3,2018,48545,89045,7,Hybrid,Automatic,Bandung
+C069,Hyundai,Elantra,2015,35848,86202,10,Diesel,Manual,Bandung
+C070,Toyota,Camry,2020,59663,15708,5,Petrol,Automatic,Medan
+C071,Hyundai,i20,2017,57811,133883,8,Petrol,Automatic,Bandung
+C072,Mitsubishi,Xpander,2018,14546,124249,7,Diesel,Automatic,Bandung
+C073,Tesla,Model S,2017,38206,142483,8,Diesel,Automatic,Denpasar
+C074,BMW,3 Series,2021,26227,139752,4,Petrol,Automatic,Jakarta
+C075,Suzuki,Swift,2015,26343,71295,10,Diesel,Automatic,Bandung
+C076,Mitsubishi,Xpander,2021,43153,11111,4,Hybrid,Manual,Medan
+C077,Tesla,Model 3,2015,9802,8155,10,Hybrid,Automatic,Makassar
+C078,Mitsubishi,Outlander,2023,47384,112561,2,Diesel,Automatic,Denpasar
+C079,Toyota,Camry,2021,29918,85981,4,Hybrid,Automatic,Medan
+C080,Honda,Civic,2017,24646,46843,8,Electric,Manual,Makassar
+C081,Toyota,Camry,2023,24371,111472,2,Hybrid,Automatic,Jakarta
+C082,Suzuki,Baleno,2016,39616,103727,9,Hybrid,Manual,Denpasar
+C083,Tesla,Model X,2019,60260,29855,6,Electric,Automatic,Denpasar
+C084,Mitsubishi,Outlander,2021,51016,7400,4,Petrol,Automatic,Surabaya
+C085,Toyota,Corolla,2017,50642,15151,8,Hybrid,Manual,Makassar
+C086,Toyota,Camry,2017,12499,6295,8,Electric,Automatic,Surabaya
+C087,Honda,Civic,2020,68535,59040,5,Petrol,Automatic,Medan
+C088,Toyota,Corolla,2022,37299,143946,3,Diesel,Automatic,Denpasar
+C089,Toyota,Camry,2015,40711,5539,10,Petrol,Automatic,Bandung
+C090,Hyundai,Elantra,2020,61351,126063,5,Diesel,Manual,Bandung
+C091,Suzuki,Swift,2023,24482,133272,2,Petrol,Automatic,Bandung
+C092,Suzuki,Swift,2016,54975,21357,9,Petrol,Manual,Makassar
+C093,Honda,Civic,2016,19969,2869,9,Hybrid,Manual,Jakarta
+C094,Suzuki,Ertiga,2017,69135,50108,8,Petrol,Manual,Surabaya
+C095,Toyota,Camry,2023,36643,90272,2,Hybrid,Automatic,Bandung
+C096,Honda,Jazz,2018,31328,91412,7,Diesel,Manual,Makassar
+C097,Mitsubishi,Xpander,2018,66871,128391,7,Petrol,Manual,Medan
+C098,Honda,Jazz,2021,41986,86416,4,Diesel,Automatic,Bandung
+C099,Toyota,Yaris,2015,68079,107450,10,Electric,Manual,Medan
+C100,Hyundai,i20,2017,53525,19830,8,Petrol,Automatic,Makassar
